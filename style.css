@@ -1,0 +1,11 @@
+a {
+    text-shadow: 2px 2px #d8d7d7;
+}
+button {
+    text-shadow: 1px 1px #d8d7d7;
+}
+h1,h2 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px blueviolet;
+}
