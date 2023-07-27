@@ -9,3 +9,10 @@ h1,h2 {
     color: black;
     text-shadow: 2px 2px blueviolet;
 }
+#services h2 {
+    text-align: left;
+    color: blueviolet;
+    text-shadow: none;
+}
+
+
